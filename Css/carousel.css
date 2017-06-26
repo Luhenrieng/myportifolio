@@ -190,7 +190,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 .title0{
-	font-size:60px; color:white;
+	font-size:34px; color:white;
 }
 
 /* Featurettes
@@ -298,6 +298,9 @@ body {
         min-width: 100%;
         height: 630px;
     }
+	.title0{
+		font-size:60px; color:white;
+	}
 
 }
 
